@@ -16,6 +16,7 @@
     'images': ['images/main_screenshot.png'],
     'data': [
              'views/calendar_view.xml',
+             'data/calendar_assets.xml',
              ],
     'installable': True,
     'application': True,
